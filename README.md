@@ -1,1 +1,2 @@
-# core-backend-api
+# Yunomico Backend Core API
+This repository contains the core API used by the yunomico site frontend, including user accounts and administration. This API will also have access to the database service, and will handle access authorization for other APIs to access information. This particular setup allows the entire backend for yunomico to be a polyglot array of different APIs in the most suitable toolset.
